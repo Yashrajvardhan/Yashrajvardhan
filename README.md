@@ -25,6 +25,7 @@
         <li>A passionate Self-taught Software Developer and Data Scientist</li>
         <li>Enjoys playing Basketball 
         <li>Currently learning Fullstack
+        <li>Reach me at **Yash707088@gmail.com**
     </ul>
         
     
