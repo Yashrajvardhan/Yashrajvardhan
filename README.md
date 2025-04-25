@@ -22,7 +22,7 @@
 </div>
 <div>
    <ul>
-    <li>A passionate Self-taught Software Developer and Data Scientist</li>
+    <li>A passionate Self-taught Software Developer </li>
     <li>Enjoys playing Basketball</li>
     <li>Currently learning Fullstack</li>
     <li>Reach me at <a href="mailto:Yash707088@gmail.com"><strong>Yash707088@gmail.com</strong></a></li>
