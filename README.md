@@ -21,13 +21,13 @@
     <picture> <img align="center" src="https://github.com/user-attachments/assets/37f43d38-b1df-4049-bb31-267cc92ebd51"></picture>
 </div>
 <div>
-    <ul>
-        <li>A passionate Self-taught Software Developer and Data Scientist</li>
-        <li>Enjoys playing Basketball 
-        <li>Currently learning Fullstack
-        <li>Reach me at **Yash707088@gmail.com**
-    </ul>
-        
+   <ul>
+    <li>A passionate Self-taught Software Developer and Data Scientist</li>
+    <li>Enjoys playing Basketball</li>
+    <li>Currently learning Fullstack</li>
+    <li>Reach me at <a href="mailto:Yash707088@gmail.com"><strong>Yash707088@gmail.com</strong></a></li>
+</ul>
+
     
   
 </div>
