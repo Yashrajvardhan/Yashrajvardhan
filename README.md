@@ -13,8 +13,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashrajVardhan&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashrajVardhan&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashrajVardhan&theme=github_dark)
-[![YashrajVardhan's GitHub | Stats](https://stats.quine.sh/YashrajVardhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=YashrajVardhan)
-[![YashrajVardhan's GitHub | Dependencies](https://stats.quine.sh/YashrajVardhan/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=YashrajVardhan)
+
 
 ## <picture><img src = "https://github.com/user-attachments/assets/9afd0edc-98da-4ce7-9388-faa293cdf7da" width = 50px></picture> **About me**
 <div align="center">
